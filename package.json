@@ -1,0 +1,17 @@
+{
+  "name": "Mealtalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Collin Stedman",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.10.0",
+    "cas": "0.0.3",
+    "compression": "^1.2.2",
+    "express": "^4.10.6"
+  }
+}
